@@ -1,138 +1,116 @@
-# Luis Machado Reis
+# Madson Viana
 
-**Location:** Balneário Piçarras, Santa Catarina, Brazil  
-**Phone:** +55 (34) 99889-5371  
-**Email:** luis.reis@singularideas.com.br  
-**LinkedIn:** [linkedin.com/in/luismachadoreis](https://linkedin.com/in/luismachadoreis)  
-**GitHub:** [github.com/luismr](https://github.com/luismr)  
-**Website:** [luismachadoreis.dev](https://luismachadoreis.dev)  
+**Location:** Brasília, Distrito Federal, Brazil
+**Phone:** +55 (61) 98296-9745
+**Email:** me@madsonviana.info
+**LinkedIn:** [linkedin.com/in/madsonviana](https://linkedin.com/in/madsonviana)
+**GitHub:** [github.com/madsonviana](https://github.com/madsonviana)
 
 ## Professional Summary
 
-Experienced Software Architect and Engineering Leader with over 20 years of hands-on experience designing, modernizing, and scaling high-performance, resilient systems. Proven track record in fintech, SaaS, telecom, and e-commerce, with deep expertise in cloud-native solutions (AWS, GCP), microservices, DevOps, and full-stack delivery using Java, TypeScript, React, and modern frameworks. Skilled in leading global teams, implementing CI/CD pipelines, architecting enterprise integrations (billing, CRM, provisioning), and aligning architecture with business impact. Passionate about leveraging AI coding tools (Cursor, Claude, OpenAI) and developing agent-based solutions to accelerate engineering productivity and delivery pace.
+Senior Java Software Engineer with over ten years of experience designing, building, and evolving enterprise web applications across finance, retail, and government sectors. Deep expertise across the Java ecosystem — Java EE, EJB, JSF, Spring, Hibernate, JPA, and PL/SQL — combined with solid engineering practices such as TDD, BDD (Cucumber), REST/SOAP APIs, and automated delivery pipelines (Maven, Jenkins, Git). Proven ability to lead architecture decisions, introduce testing and code review cultures, and mentor development teams — including mission-critical systems for the Brazilian Federal Police and financial platforms. Collaborative, pragmatic, and committed to clean code and continuous improvement.
 
 ## Core Competencies
 
-- Software Architecture & Modernization  
-- Backend & Full-Stack Engineering (Java, Spring Boot, Python, .NET, React, Angular, Vue)  
-- Cloud Computing (AWS, GCP), Kubernetes, Docker  
-- CI/CD & DevOps (GitHub Actions, Jenkins, Bamboo, Terraform, Ansible)  
-- TypeScript & Frontend Development (React, Vue, Angular)  
-- AI-Augmented Development (Cursor, Claude, OpenAI) & Agent-Based Workflows  
-- Enterprise Integration Architecture (APIs, ERP-Adjacent Flows, Data Pipelines)  
-- E-Commerce Platform Development & Modernization  
-- Microservices & Event-Driven Systems (RabbitMQ, Kafka)  
-- Scalable, Secure Systems Design (OAuth2, OpenID, JWT, PCI DSS)  
-- Technical Leadership & Team Mentorship  
-- Performance Optimization & Observability  
-- Agile Development, Remote Team Collaboration
+- Enterprise Java Development (Java EE, EJB, JSF, Servlet)  
+- Spring Framework, Spring Boot & Dependency Injection  
+- Object-Relational Mapping (Hibernate, JPA)  
+- RESTful Web Services & API Design  
+- SOAP Web Services & SOA Integration  
+- Database Design & PL/SQL Programming  
+- Test-Driven Development (TDD) & BDD (Cucumber)  
+- Software Architecture & System Design  
+- Build Automation & Dependency Management (Maven, Gradle)  
+- CI/CD & Release Automation (Jenkins)  
+- Version Control & Collaboration (Git, GitLab)  
+- Code Review, Quality Gates & Engineering Culture  
+- Team Leadership & Developer Mentorship  
+- Mission-Critical & High-Availability Systems  
+- Deep Learning & Applied AI (Udacity Nanodegree)
 
 ## Professional Experience
 
-### **Sears Home Services** – Senior Software Engineering Manager  
-**Jul 2025 – now | Chicago, USA**  
+### **Trustly** – Senior Java Software Engineer
+**Mar 2022 – Present | Remote**
+- Design and engineer high-throughput, scalable back-end services in Java for a global real-time payment platform
+- Develop RESTful APIs and integrate financial services with robust error handling, monitoring, and security in mind
+- Contribute to architecture decisions, code quality, and agile delivery in a fast-moving fintech environment
 
-#### **Service Order Management** – Software Architect
-- Create, Update, Reschedule, Cancel, Lookup service orders
-- Authorizer Service: Client ID and bearer token management
-- Provide closer architecture support for Business/Product areas
-- Provide closer support for SHI (Sears Holding India) Engineers
+### **Grupo GFT** – Senior Java Software Engineer
+**Apr 2021 – Feb 2022 | Brasília, Brazil**
+- Delivered enterprise back-end solutions in Java for banking and finance clients
+- Implemented Spring-based services using TDD, following strict banking-grade quality and security standards
+- Automated build and deployment pipelines, reducing manual effort and improving release consistency
 
-#### **SHSAI** – Software Engineering Manager
-- AI innovation engine for Sears Home Services, focused on:
-- Agent Development & Orchestration
-- Machine Learning & NLP Solutions
-- AI-Powered Tooling for Technicians
-- Conversational AI (Chat Assistants, Voice AI)
-- Intelligent Routing & Scheduling
+### **Qintess** – Software Architect
+**Jun 2020 – Apr 2021 | Brasília, Brazil**
+- Defined the technical architecture and design guidelines for critical enterprise web applications
+- Selected technologies and set coding standards, improving maintainability across delivery teams
+- Bridged business requirements and technical implementation, ensuring scalable and robust solutions
 
-### **Trustly** – Head of Software Architecture  
-**Sep 2022 – Feb 2025 | Vitória, Brazil**  
-- Led cloud-native architecture of real-time payment platform (Java, AWS, Spring Boot)  
-- Defined integration architecture connecting payment platform with downstream banking and upstream merchant systems via APIs and event-driven messaging  
-- Designed microservices, CI/CD (GitHub Actions, Bamboo), and automated infrastructure  
-- Achieved 99.99% uptime during high-traffic events like the Super Bowl  
-- Reduced transaction latency by 40% and improved overall reliability  
+### **Mirante Tecnologia** – Senior Java Developer
+**May 2019 – Jun 2020 | Brasília, Brazil**
+- Built back-end components and RESTful services in Java for enterprise applications
+- Applied Java best practices, unit testing, and peer review to raise code quality and reduce defects
+- Collaborated closely with front-end and QA teams to deliver cohesive, well-integrated features
 
-### **Aurea Software** – Product Chief Architect  
-**Sep 2015 – Aug 2022 | Austin, TX (Remote)**  
-- Modernized enterprise SaaS products including Lyris, Prysm, FogBugz, DevFactory  
-- Migrated systems to AWS, introduced Docker/ECS and infrastructure-as-code  
-- Led frontend modernization with React, TypeScript, and component architecture  
-- Delivered DevOps pipelines (Jenkins, GitHub Actions) and code quality automation  
+### **Cast Group** – Senior Java Software Engineer
+**Oct 2018 – May 2019 | Brasília, Brazil**
+- Designed and developed web applications using Spring, BDD (Cucumber), REST, and SOAP Web Services
+- Championed behavior-driven development, translating business requirements into executable specifications
+- Delivered clean, testable code within cross-functional, agile squads
 
-### **SingularIdeas** – Senior Software Specialist  
-**Apr 2005 – Sep 2022 | Uberlândia, Brazil**  
-- Designed scalable SaaS applications using Java, React, and cloud services  
-- Built full-stack apps with responsive UIs in Angular, Vue, and React  
-- Developed backend APIs, CI/CD pipelines, and cloud-native automation  
+### **Stefanini** – Software Architect / Senior Java Engineer
+**May 2016 – Sep 2018 | Brasília, Brazil**
 
-### **LigFlat Telecom** – Founder & Software Architect  
-**Aug 2013 – Dec 2019 | Uberlândia, Brazil**  
-- Developed complete OSS/BSS platform, integrating VoIP, billing, and CRM  
-- Architected end-to-end enterprise integration flows connecting billing, CRM, and provisioning systems — ERP-adjacent patterns with APIs, event-driven messaging, and automated data pipelines  
-- Architected systems using Java, MySQL, and telecom protocols (SMPP, SIP)  
-- Automated network provisioning with Ansible and deployed via Bamboo  
+#### Software Architect *(Apr 2017 – Sep 2018)* — Brazilian Federal Police
+- Architected and coded high-level, mission-critical web applications in Java, EJB, JSF, SOAP, REST, and Hibernate
+- Introduced automated testing and code review culture, raising engineering standards across the team
+- Configured project builds and deployments on the Jenkins automation server, enabling continuous delivery
+- Managed GitLab projects and permissions, streamlining source control and release workflows
+- Mentored developers to sharpen their coding skills, code design, and engineering practices
 
-### **Algar Telecom** – QA Engineering Manager  
-**Jul 2008 – Dec 2012 | Uberlândia, Brazil**  
-- Managed software quality, QA processes, and platform optimization  
-- Delivered stable portals and e-commerce platforms (.NET, Oracle), including product catalog, checkout, and order management flows  
-- E-commerce domain expertise in telecom retail, readily transferable to modern platforms such as Shopify and Shopify Plus  
+#### Senior Java Engineer *(May 2016 – Apr 2017)*
+- Developed and maintained enterprise-grade Java applications for public-sector clients
+- Strengthened system stability and performance through disciplined testing and refactoring
+
+### **CEPROMAT** – Senior Software Engineer
+**Jul 2013 – Mar 2016 | Cuiabá, Brazil**
+- Engineered back-end software solutions in Java for public-sector operations
+- Designed data models and business logic supporting critical institutional workflows
+
+### **UNITEC – Sefaz/PI** – Java Software Developer
+**Aug 2011 – Jul 2013 | Teresina, Brazil**
+- Developed and maintained tax and fiscal systems for the Piauí State Finance Department (SEFAZ/PI)
+- Implemented Java services and PL/SQL routines to process and validate fiscal data reliably
+
+### **Remanso Mineradora e Construtora** – Java Software Developer
+**Feb 2008 – Jul 2011 | Teresina, Brazil**
+- Built web applications and internal systems in Java supporting construction and mining operations
+- Delivered end-to-end solutions, from data modeling and business rules to UI and deployment
 
 ## Education
 
-**Bachelor of Computer Science**  
-Universidade da Região da Campanha (1997–2000)
+**Nanodegree, Deep Learning**  
+Udacity Brasil (2017–2018)
 
-## Certifications
+**MBA in IT Governance**  
+UNIEURO – Universidade Euroamericana (2011–2012)
 
-- **SCEA – Sun Certified Enterprise Architect**  
-- **SCJP 6 – Sun Certified Java Programmer**  
-- **EF SET C2 Proficient – English Certification**  
-- **IBM AIX Administrator / User**  
-- **Conectiva Linux Administrator I & II**
+**Computer and Information Sciences, General**  
+FATEPI – Faculdade de Tecnologia do Piauí (2005–2010)
+
+## Skills & Technologies
+
+**Languages & Databases:** Java, PL/SQL, SQL, Hibernate, JPA  
+**Frameworks:** Java EE, EJB, JSF, Spring, Spring Boot  
+**APIs & Integration:** REST, SOAP, SOA, Web Services  
+**Testing:** JUnit, TDD, BDD (Cucumber)  
+**Build & CI/CD:** Maven, Gradle, Jenkins  
+**Tools & Collaboration:** Git, GitLab, Agile (Scrum/Kanban)  
+**Data & AI:** Deep Learning, Neural Networks (Udacity Nanodegree)
 
 ## Languages
 
-- Portuguese: Native  
-- English: Fluent (C2 – Proficient)
-
-## Projects & Portfolio
-
-*Public repos and code samples — company codebases from past employers are in private repositories.*
-
-- **[Real-Time Flight Tracker](https://github.com/luismr/realtime-flight-tracker)**  
-  *Java, Python, TypeScript, React, Kafka*  
-  Scalable architecture to process and visualize live flight events in real-time.
-
-- **[Flight Tracker App](https://github.com/luismr/flight-tracker-event-app)**  
-  *React, TypeScript*  
-  Interactive frontend interface for flight event visualization.
-
-- **[Heimdall Realm](https://github.com/luismr/heimdall)**  
-  *TypeScript, Express, Serverless, JWT*  
-  Secure access control service built on a serverless stack with JWT authentication.
-
-- **[Blueprint Prompts MCP Server](https://github.com/luismr/blueprint-prompts)**  
-  *TypeScript, Node.js, Claude API, Cursor Integration*  
-  Blueprint-based prompt management server to support AI workflows using Claude and Cursor.
-
-- **[Homelabs](https://github.com/luismr/homelabs)**  
-  *Vagrant, Kubernetes, Terraform, Grafana, Loki, Promtail, Cloudflare Tunnel*  
-  Infrastructure project to explore how to use a homelab in-house, exposing services using Cloudflare Tunnel.
-
-- **[Pudim Score Calculator](https://github.com/luismr/pudim-dev-calculator)** | [Live Demo](https://pudim.dev)  
-  *React, TypeScript, Node.js, shadcn/ui*  
-  A personal, lightweight (and good-humored) Next.js project that demonstrates how to build a service consuming the GitHub API, ranking developers with dessert-themed titles—just for fun! The live demo is always running in my homelab (yes, that's alive).
-
-## Tools & Technologies
-
-**Languages & Frameworks:** Java, Spring Boot, .NET, Python, JavaScript, TypeScript, React, Vue, Angular  
-**Cloud & DevOps:** AWS, GCP, Kubernetes, Docker, Terraform, Ansible, Jenkins, Bamboo, GitHub Actions  
-**Architecture:** Microservices, Modular Monolith, Serverless, Event-Driven  
-**Databases:** PostgreSQL, MySQL, SQL Server, Oracle  
-**Messaging & Integration:** Kafka, RabbitMQ, ActiveMQ, SQS  
-**Security:** OAuth2, OpenID, JWT, PCI DSS  
-**Monitoring:** Prometheus, Grafana, AWS CloudWatch  
-**AI & Productivity:** Cursor, Claude (Anthropic), OpenAI, GitHub Copilot
+- Portuguese: Native
+- English: Professional
