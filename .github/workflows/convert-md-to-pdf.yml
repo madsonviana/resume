@@ -42,8 +42,8 @@ jobs:
       - name: Move generated PDF to the pdf/ folder
         run: |
           mkdir -p pdf
-          mv RESUME.pdf pdf/RESUME-${{ env.DATE }}.pdf
-          mv COVER_LETTER.pdf pdf/COVER_LETTER-${{ env.DATE }}.pdf
+          mv -f RESUME.pdf pdf/RESUME-${{ env.DATE }}.pdf
+          mv -f COVER_LETTER.pdf pdf/COVER_LETTER-${{ env.DATE }}.pdf
 
       - name: Configure Git
         run: |
