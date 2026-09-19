@@ -1,9 +1,9 @@
 # Madson Viana
 
-**Location:** Brasília, Distrito Federal, Brazil
-**Phone:** +55 (61) 98296-9745
-**Email:** me@madsonviana.info
-**LinkedIn:** [linkedin.com/in/madsonviana](https://linkedin.com/in/madsonviana)
+**Location:** Brasília, Distrito Federal, Brazil\
+**Phone:** +55 (61) 98296-9745\
+**Email:** me@madsonviana.info\
+**LinkedIn:** [linkedin.com/in/madsonviana](https://linkedin.com/in/madsonviana)\
 **GitHub:** [github.com/madsonviana](https://github.com/madsonviana)
 
 ## Professional Summary
