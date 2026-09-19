@@ -103,11 +103,12 @@ FATEPI – Faculdade de Tecnologia do Piauí (2005–2010)
 ## Skills & Technologies
 
 **Languages & Databases:** Java, PL/SQL, SQL, Hibernate, JPA  
-**Frameworks:** Java EE, EJB, JSF, Spring, Spring Boot  
+**Frameworks:** Java EE, EJB, JSF, Servlet, Spring, Spring Boot, Dependency Injection  
 **APIs & Integration:** REST, SOAP, SOA, Web Services  
 **Testing:** JUnit, TDD, BDD (Cucumber)  
 **Build & CI/CD:** Maven, Gradle, Jenkins  
 **Tools & Collaboration:** Git, GitLab, Agile (Scrum/Kanban)  
+**Architecture & Engineering:** Software Architecture & System Design, Code Review & Quality Gates, Mission-Critical & High-Availability Systems, Team Leadership & Mentorship  
 **Data & AI:** Deep Learning, Neural Networks (Udacity Nanodegree)
 
 ## Languages

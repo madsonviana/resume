@@ -6,6 +6,7 @@ on:
       - "main"
     paths:
       - "RESUME.md"
+      - "COVER_LETTER.md"
   workflow_dispatch:
 
 jobs:
