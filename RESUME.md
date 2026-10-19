@@ -31,7 +31,7 @@ Senior Java Software Engineer with over ten years of experience designing, build
 ## Professional Experience
 
 ### **Trustly** – Senior Java Software Engineer
-**Mar 2022 – Present | Remote**
+**Mar 2022 – Set 2026 | Remote**
 - Design and engineer high-throughput, scalable back-end services in Java for a global real-time payment platform
 - Develop RESTful APIs and integrate financial services with robust error handling, monitoring, and security in mind
 - Contribute to architecture decisions, code quality, and agile delivery in a fast-moving fintech environment
